@@ -39,7 +39,7 @@ The backend for SoulDreamer leverages a stack of powerful technologies and compo
 
 
 ## Documentation
-- [Directory Structure](./Documentation/DirectoryStructure.md) - An overview of the project's directory organization.
+- [Directory Structure](./documentation/DirectoryStructure.md) - An overview of the project's directory organization.
 
 
 ## Contributing
