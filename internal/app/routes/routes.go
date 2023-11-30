@@ -1,7 +1,8 @@
 package routes
 
 import (
-	"github.com/NikolayLukyanov/backend-souldreamer/internal/app/routes/handlers"
+	"internal/app/routes/handlers"
+
 	"github.com/gorilla/mux"
 )
 
